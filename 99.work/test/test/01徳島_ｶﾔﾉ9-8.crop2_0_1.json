@@ -1,0 +1,19 @@
+{
+  "detection": [
+    {
+      "class": "cable",
+      "bbox": [
+        892.7921142578125,
+        271.6431884765625,
+        959.5679321289062,
+        375.8134765625
+      ]
+    }
+  ],
+  "classification": {
+    "class": "crop"
+  },
+  "anormal": {
+    "normal": true
+  }
+}

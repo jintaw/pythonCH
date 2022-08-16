@@ -1,0 +1,19 @@
+{
+  "detection": [
+    {
+      "class": "eiso3",
+      "bbox": [
+        1253.1439208984375,
+        1112.4775390625,
+        1273.0177001953125,
+        1135.8583984375
+      ]
+    }
+  ],
+  "classification": {
+    "class": "crop"
+  },
+  "anormal": {
+    "normal": true
+  }
+}
